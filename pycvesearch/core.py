@@ -3,7 +3,7 @@
 
 import requests
 
-from urllib.parse import urljoin
+from urlparse import urljoin
 
 
 class CVESearch(object):
